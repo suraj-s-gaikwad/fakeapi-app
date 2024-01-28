@@ -1,0 +1,28 @@
+.ok{
+    height: 300px;
+    width:300px;
+    background: url('./image/watermelon.jpg');
+    background-size: 100% 95%;
+    text-align: center;
+   
+	box-shadow:0 0 10px black;
+}
+h2{
+    font-size: 20px;
+    padding-left: 10px;
+    color:blue
+}
+
+p{
+    font-size: 15px;
+    font-family: sans-serif;
+}
+
+input{
+    width:80px;
+    height:30px;
+    border-radius: 7px ;
+    background:white;
+    border:none;
+    box-shadow:0 0 10px black;
+}
